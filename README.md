@@ -5,14 +5,14 @@ This project is a reservation management system that allows basic handling (CRUD
 ## Technologies Used
 
 - **Backend**: NestJS, TypeORM, SQLite
-- **Frontend**: NextJS
+- **Frontend**: NextJS, TailwindCSS
 
 ## Project Structure
 
 The repository is divided into two main folders:
 
-- `front`: Contains the source code for the project's frontend.
-- `back`: Contains the source code for the project's backend.
+- `front`: Contains the source code for the frontend.
+- `back`: Contains the source code for the backend.
 
 ## Prerequisites
 
