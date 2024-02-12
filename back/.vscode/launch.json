@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/nest",
+      "args": ["start", "--debug", "--watch"],
+      "cwd": "${workspaceFolder}",
+      "protocol": "inspector",
+      "console": "integratedTerminal",
+      "sourceMaps": true,
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
